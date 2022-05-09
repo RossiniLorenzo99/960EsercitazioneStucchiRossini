@@ -3,12 +3,14 @@ button {
     color:black;
     font-size:40px;
     
+    
 
 
 }
 
 button:hover{
     background-color: green;
+    border-radius: 15px;
 }
 
 li {
@@ -17,6 +19,8 @@ li {
     margin:auto;
     color:red;
     background-color:black;
+    border-radius: 5px;
+    
 }
 
 body {
@@ -27,5 +31,6 @@ h1 {
     background-color: black;
     color:red;
     text-align: center;
-    text-decoration:underline;
+    text-decoration:underline overline;
+    border-radius: 15px;
 }
